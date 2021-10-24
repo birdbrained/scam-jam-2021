@@ -1,35 +1,40 @@
-1	Baseball	Very musty.	1	3.5	baseball.png
-2	Soccer Ball	I think there's some holes in it…	1	5	baseball.png
-3	Loafers	The dog has fetched these one to many times…	5	10	baseball.png
-4	Broken China Plate	There's magic in them cracks!	6	30	baseball.png
-5	iPod	"The original one. Like, the original ORIGINAL one. 2001."	4	50	baseball.png
-6	Football	"The American one, unfortunately."	1	3.67	baseball.png
-7	Toy Fish	It slaps the ground. Very hard. Annoy your neighbors!	4	9.99	baseball.png
-8	A Half-Empty Bottle of Soy Sauce	"Hey, that's half-full to you!"	2	7.49	baseball.png
-9	Monopoly without the Money	Sold separately.	8	39.99	baseball.png
-10	Monopoly Money	Basically the same concept as buying fake currency in games!	8	4.76	baseball.png
-11	Holy Hat	"Both definitions of ""holy"" apply."	5	5	baseball.png
-12	Slightly Crooked Lamp	It's post-modern. Your feeble mind wouldn't comprehend the artistic value!	9	67	baseball.png
-13	1 Aspirin Pill	A small price to pay for health.	2	5	baseball.png
-14	Bear Figure	Isn't this like. Everywhere. In old people places?	3	39	baseball.png
-15	Bloody Knife	Don't ask.	6	6.66	baseball.png
-16	Lawn Chair w/ 3 Legs	That's all you need! 4 is sooooo unnecessary!	9	12.12	baseball.png
-17	Magic Secpter Figurine	Collect them all!	3	69.69	baseball.png
-18	Lemonade	I swear.	2	1.99	baseball.png
-19	Box of Rigatoni	<Italian gibberish>	2	0.79	baseball.png
-20	Limited Edition Yoda Drinking Mug	"Compel you to commit war crimes, this mug will."	3	34	baseball.png
-21	Robot Dog	It barks! It walks! It talks! It uses 6 D batteries!	4	29.76	baseball.png
-22	Disco Lamp	You ever stare at one of this while completely baked?	4	3.56	baseball.png
-23	Fencing Mask	I'm sure this has many uses. You figure it out!	1	45.21	baseball.png
-24	A Popcorn Piece that looks like Jack Black	Squint harder.	2	99	baseball.png
-25	Egg Cup	Eggs are one of the most sacred food items; you must cradle each one with care.	6	23.12	baseball.png
-26	Egg Clacker	This thing is way to fancy and complicated for me to figure out.	6	42.01	baseball.png
-27	Sausage Grinder	A very oridnary kitchen item.	6	34.45	baseball.png
-28	The 5th Ace	Up your sleeve.	8	3.45	baseball.png
-29	A Very Squishy Bean Bag Chair	It will suck you into the void…. The couch void!	9	45.32	baseball.png
-30	Joots	High-fashion.	5	45.21	baseball.png
-31	Your Underwear	You want it back?	5	3.45	baseball.png
-32	Automatic Pickler	Aka. A mason jar.	6	5.67	baseball.png
-33	Picture Fram with the Stock Photo	I don't know who these people are. But. I love them like family. *sniff*	3	7.89	baseball.png
-34	Jouch	Like. A jean couch. Why does this need to exist.	9	76.67	baseball.png
-35	A Ridiculous amount of Beans	They can go anywhere!!	2	100	baseball.png
+1	Baseball	Very musty.	1	3.5	baseball
+2	Soccer Ball	I think there's some holes in it…	1	5	baseball
+3	Loafers	The dog has fetched these one to many times…	5	10	baseball
+4	Broken China Plate	There's magic in them cracks!	6	30	baseball
+5	iPod	"The original one. Like, the original ORIGINAL one. 2001."	4	50	baseball
+6	Football	"The American one, unfortunately."	1	3.67	baseball
+7	Toy Fish	It slaps the ground. Very hard. Annoy your neighbors!	4	9.99	baseball
+8	A Half-Empty Bottle of Soy Sauce	"Hey, that's half-full to you!"	2	7.49	baseball
+9	Monopoly without the Money	Sold separately.	8	39.99	baseball
+10	Monopoly Money	Basically the same concept as buying fake currency in games!	8	4.76	baseball
+11	Holy Hat	"Both definitions of ""holy"" apply."	5	5	baseball
+12	Slightly Crooked Lamp	It's post-modern. Your feeble mind wouldn't comprehend the artistic value!	9	67	baseball
+13	1 Aspirin Pill	A small price to pay for health.	2	5	baseball
+14	Bear Figure	Isn't this like. Everywhere. In old people places?	3	39	baseball
+15	Bloody Knife	Don't ask.	6	6.66	baseball
+16	Lawn Chair w/ 3 Legs	That's all you need! 4 is sooooo unnecessary!	9	12.12	baseball
+17	Magic Secpter Figurine	Collect them all!	3	69.69	baseball
+18	Lemonade	I swear.	2	1.99	baseball
+19	Box of Rigatoni	<Italian gibberish>	2	0.79	baseball
+20	Limited Edition Yoda Drinking Mug	"Compel you to commit war crimes, this mug will."	3	34	baseball
+21	Robot Dog	It barks! It walks! It talks! It uses 6 D batteries!	4	29.76	baseball
+22	Disco Lamp	You ever stare at one of these while completely baked?	4	3.56	baseball
+23	Fencing Mask	I'm sure this has many uses. You figure it out!	1	45.21	baseball
+24	A Popcorn Piece that looks like Jack Black	Squint harder.	2	99	baseball
+25	Egg Cup	Eggs are one of the most sacred food items; you must cradle each one with care.	6	23.12	baseball
+26	Egg Clacker	This thing is way to fancy and complicated for me to figure out.	6	42.01	baseball
+27	Sausage Grinder	A very oridnary kitchen item.	6	34.45	baseball
+28	The 5th Ace	Up your sleeve.	8	3.45	baseball
+29	A Very Squishy Bean Bag Chair	It will suck you into the void…. The couch void!	9	45.32	baseball
+30	Joots	High-fashion.	5	45.21	baseball
+31	Your Underwear	You want it back?	5	3.45	baseball
+32	Automatic Pickler	Aka. A mason jar.	6	5.67	baseball
+33	Picture Frame with the Stock Photo	I don't know who these people are. But. I love them like family. *sniff*	3	7.89	baseball
+34	Jouch	Like. A jean couch. Why does this need to exist.	9	76.67	baseball
+35	A Ridiculous amount of Beans	They can go anywhere!!	2	100	baseball
+36	A Moist Sock	The moisture gives it its strength.	5	3.45	baseball
+37	Rotten Cabbage	Mold is good. For you. Not for me...	2	6.78	baseball
+38	A Random Assortment of Shot Glasses	Each cruddy little label has sentimental value. Probably. ...probably not.	6	35.43	baseball
+39	Orange Peel	Zesty!	2	2.99	baseball
+40	Tooth	The tooth fairy'll never get this one from me!!	3	1	baseball
