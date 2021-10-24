@@ -1,0 +1,45 @@
+ It'll keep your face from getting any uglier!	1	5	2
+You'll rule the world!	1	1	6
+A must have. Even I kinda want it.....	1	3	0
+"Just, y'know. Do it. Live your life!"	1	3	0
+"They are watching us, be quick O__O"	-1	4	8
+I know you want it.	-1	8	1
+You don't like. Need. Your money.	-1	8	1
+FOMO	1	4	2
+You will regret not getting it now!	1	0	4
+People have been eyeing that all day my dood…	1	2	5
+C'monnnnnnnnnnnnnn	1	0	6
+It solves your back pain!	1	5	9
+It washes cars! Bars! Mars! ....cars!	1	9	8
+It's edible!	1	2	4
+It smells nice :)	1	5	2
+:)	1	8	1
+It's good!	-1	6	1
+"You. Me. Let us stare into each others eyes, and ponder about buying my crap."	1	1	0
+It's the whim of causality. Buy it!	-1	1	0
+Just do it!!!	1	1	0
+YOLO!	-1	1	0
+Don't let your jean dreams be memes...!	1	5	0
+*stares menacingly*	-1	6	0
+I bet this would compliment your getup!	1	5	0
+Why haven't you given me your money yet!?	-1	2	6
+DSFRGDFAGDFSFGFSGFDGSDGADg	1	3	0
+Quality merchandising!	1	3	1
+A fine transaction.	1	3	2
+"When you know, y'know. And I think you know, y'know?"	1	4	3
+I get it. You want it. Guess what. You could have it…	-1	5	4
+Money can be exchanged for goods and services. My goods and services!	1	1	5
+I swear it's not shit. S W E A R .	-1	9	6
+"It's our anniversary, surprise! Make me happy by buying this!"	-1	0	8
+A transaction is near in your future.	1	0	9
+The stars align.... for this very moment!!!	1	3	9
+Buy now! Act later…	-1	0	8
+Buy now! Regret never!	1	0	6
+B U Y	1	0	3
+This was originally owned by George Washington.	1	3	1
+This was originally owned by George Lucas.	1	3	2
+This was originally owned by George Foreman.	1	6	3
+This was originally owned by George Clooney.	-1	3	4
+This was originally owned by George.	-1	3	5
+It'll kick-start a meaningful relationship!	1	0	6
+C O N S U M E	-1	2	8
