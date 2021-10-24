@@ -34,6 +34,54 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private Text object3;
 
+    private string[] dialogueOptions =
+    {
+        "It'll keep your face from getting any uglier!",
+        "You'll rule the world!",
+        "A must have. Even I kinda want it.....",
+        "Just, k'now. Do it. Live your life!",
+        "They are watching us, be quick O__O",
+        "I know you want it.",
+        "You don't like. Need. Your money.",
+        "FOMO",
+        "You will regret not getting it now!",
+        "People have been eyeing that all day my dood...",
+        "C'monnnnnnnnnnnnnn",
+        "It solves your back pain!",
+        "It washes cars! Bars! Mars! ....cars!",
+        "It's edible!",
+        "It smells nice :)",
+        ":)",
+        "It's good!",
+        "You. Me. Let us stare into each others eyes, and ponder about buying my crap.",
+        "It's the whim of causality. Buy it!",
+        "Just do it!!!",
+        "YOLO!",
+        "Don't let your jean dreams be memes...!",
+        "*stares menacingly*",
+        "I bet this would compliment your getup!",
+        "Why haven't you given me your money yet!?",
+        "DSFRGDFAGDFSFGFSGFDGSDGADg",
+        "Quality merchandising!",
+        "A fine transaction.",
+        "When you know, y'know. And I think you know, y'know?",
+        "I get it. You want it. Guess what. You could have it...",
+        "Money can be exchanged for goods and services. My goods and services!",
+        "I swear it's not shit. S W E A R .",
+        "It's our anniversary, surprise! Make me happy by buying this!",
+        "A transaction is near in your future.",
+        "The stars align.... for this very moment!!!",
+        "Buy now! Act later...",
+        "Buy now! Regret never!",
+        "B U Y",
+        "This was originally owner by George Washington.",
+        "This was originally owner by George Lucas.",
+        "This was originally owner by George Foreman.",
+        "This was originally owner by George Clooney.",
+        "This was originally owner by George.",
+        "It'll kick-start a meaningful relationship!"
+    };
+
     // Start is called before the first frame update
     void Start()
     {
