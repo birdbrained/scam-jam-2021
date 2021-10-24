@@ -1,0 +1,25 @@
+Scam Jam 2021 Game Design Document
+
+== CONCEPT ==
+You're a flea market salesperson/random suave asshole and you got shit to sell.
+Luckly, people are pretty dumb. They're just *begging* you to take their munny 
+in exhance for random crap!!
+
+== GAMEPLAY ==
+
+The game sees the player trying to sell objects to people in order to make as 
+much money as possible. The player gets a brief description of the next customer 
+to scout out things they might want to buy and what things to say in order for 
+them to buy it.
+
+After seeing the customer overview, the player gets presented with 3 objects and 
+must pick one to try and sell to the customer. After picking the object, dialogue 
+options will appear in sets of 3, and the player must keep picking the options that 
+will persuade the customer in the right direction. Correct options will make the 
+customer appear more happy, and wrong options will make the customer appear more 
+angry. However, the customer may catch on to your lies and bs if you pick too 
+many positive options. The player can choose to stop the persuasion at any point 
+after 3 rounds of dialogue, in which then they will suggest a price for the object. 
+The MSRP of the object will be shown, and the player can choose to inflate or lower 
+the price to their seeing. A charmed customer is more likely to pay for an inflated 
+price tag, while angry customers will probably not buy it for more than a few cents. 
